@@ -1,6 +1,6 @@
 {
   "name": "proto-lib",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Classless extremely lite Prototypal JavaScript Library, using MVC architectual pattern.",
   "main": "index.js",
   "engines": {
